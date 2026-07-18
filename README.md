@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mithesh10/LeetCode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mithesh10/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0704-binary-search](https://github.com/Mithesh10/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mithesh10/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Mithesh10/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
