@@ -62,4 +62,8 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mithesh10/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Mithesh10/LeetCode/tree/master/0226-invert-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Mithesh10/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
