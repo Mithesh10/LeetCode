@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mithesh10/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Mithesh10/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mithesh10/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/Mithesh10/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mithesh10/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Mithesh10/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Mithesh10/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Mithesh10/LeetCode/tree/master/0125-valid-palindrome) |
 ## Stack
@@ -69,4 +71,8 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Mithesh10/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Mithesh10/LeetCode/tree/master/0013-roman-to-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Mithesh10/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
